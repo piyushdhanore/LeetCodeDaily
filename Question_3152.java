@@ -41,8 +41,7 @@ public class Question_3152 {
         int[] nums = {3,4,1,2,6};
         int[][] queries = {{0,4}};
 
-
-
+        
     }
 
     public static boolean[] isArraySpecial(int[] nums, int[][] queries) {
